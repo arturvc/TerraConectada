@@ -8,6 +8,7 @@ Programação (a confirmar):
 - 10:00 - Apresentação do Arduino Day
 - 10:30 - Ciência cidadã com tecnologias abertas  
 - 11:00 - Arduino e a prática educativa ambiental
+- 12:00 - Intervalo
 - 14:00 - Oficina Monitoramento do Solo 
 - 18:00 - Encerramento.
 
