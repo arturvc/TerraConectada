@@ -19,8 +19,8 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 - 12:00 - Encerramento
 
 ---
-Site oficial da Arduino Week: https://week.arduino.cc/events
+Site oficial da Arduino Week 2022: https://week.arduino.cc/events
 
-Dúvidas ou mais informações, entre em contato com Abecê da Educação Ambiental - ongabcambiental@gmail.com.
+Dúvidas ou mais informações, entre em contato com Abecê da Educação Ambiental: ongabcambiental@gmail.com
 
 
