@@ -12,13 +12,14 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 ## Programação
 - 09:00 - Apresentação e boas vindas do Arduino Day
 - 09:30 - Ciência cidadã e práticas participativas -
-- 10:00 - Tecnologias abertas e educação - Alexandre Villares 
+- 10:00 - Tecnologias abertas e ensino de programação - Alexandre Villares 
 - 10:30 - IoT, sensores e ambiente - 
 - 11:00 - Dados do ambiente como prática artística - Artur Cabral
 - 11:30 - Pesquisas acadêmicas de monitoramento ambiental - Prof. Flávio
 - 12:00 - Encerramento
 
 ---
+
 Site oficial da Arduino Week 2022: [https://week.arduino.cc/events](https://week.arduino.cc/events)
 
 Dúvidas ou mais informações, entre em contato com Abecê da Educação Ambiental: ongabcambiental@gmail.com
