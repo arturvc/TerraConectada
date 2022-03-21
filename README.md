@@ -11,11 +11,11 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 
 ## Programação
 - Apresentação e boas vindas do Arduino Day
-- Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB / Gui Konami
-- Tecnologias abertas e ensino de programação - Alexandre Villares 
 - IoT, sensores e ambiente - 
+- Tecnologias abertas e ensino de programação - Alexandre Villares 
+- Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB
 - Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
-- Pesquisas acadêmicas de monitoramento ambiental - 
+- Pesquisas acadêmicas de monitoramento ambiental - Prof. Flávio / IFCE
 - Encerramento
 
 ## Sobre os participantes
