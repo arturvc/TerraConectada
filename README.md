@@ -14,8 +14,9 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 - IoT, sensores e ambiente - 
 - Tecnologias abertas e ensino de programação - Alexandre Villares 
 - Uso de tecnologias abertas para a educação e a sustentabilidade - MudaLAB
+- Rastreador automático solar para otimização da conversão fotovoltaica
+- Urbidimetro-condutivimetro e phmetro integrados de baixo custo
 - Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
-- Pesquisas acadêmicas de monitoramento ambiental - Prof. Flávio / IFCE
 - Encerramento
 
 ## Sobre os participantes
