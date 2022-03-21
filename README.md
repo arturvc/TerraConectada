@@ -14,9 +14,15 @@ Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLSca
 - 09:30 - Ciência cidadã e práticas participativas -
 - 10:00 - Tecnologias abertas e ensino de programação - Alexandre Villares 
 - 10:30 - IoT, sensores e ambiente - 
-- 11:00 - Dados do ambiente como prática artística - Artur Cabral
+- 11:00 - Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
 - 11:30 - Pesquisas acadêmicas de monitoramento ambiental - Prof. Flávio
 - 12:00 - Encerramento
+
+## Sobre os participantes
+
+**Alexandre Villares** é professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da Noite de Processing em São Paulo. Ministra cursos na graduação e na pós-graduação, desenvolvendo também cursos independentes e atividades como educador de tecnologias e artes no Sesc-SP.
+
+**Artur Cabral** é artista computacional, pesquisador e professor. Doutorando em Arte Contemporânea pelo PPGAV na UnB, faz parte da equipe do Medialab/UNB, onde em suas pesquisas explora a relação entre máquinas e vidas naturais por meio de interfaces e poéticas computacionais. Participou de exposições coletivas no Brasil e no exterior, seus trabalhos poéticos têm como fio condutor a emergência computacional e vão desde software-art, instalações artísticas e objetos interativos.
 
 ---
 
