@@ -10,13 +10,13 @@ O evento será online pelo Google Meet no dia 26/03/2022.
 Para participar, inscreva-se [aqui](https://docs.google.com/forms/d/e/1FAIpQLScaPpW16FcdkYCClcYDY00NW6ylxixAA51H_mBS250NJfQYAQ/viewform).
 
 ## Programação
-- 09:00 - Apresentação e boas vindas do Arduino Day
-- 09:30 - Ciência cidadã e práticas participativas -
-- 10:00 - Tecnologias abertas e ensino de programação - Alexandre Villares 
-- 10:30 - IoT, sensores e ambiente - 
-- 11:00 - Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
-- 11:30 - Pesquisas acadêmicas de monitoramento ambiental - Prof. Flávio
-- 12:00 - Encerramento
+- Apresentação e boas vindas do Arduino Day
+- Ciência cidadã e práticas participativas -
+- Tecnologias abertas e ensino de programação - Alexandre Villares 
+- IoT, sensores e ambiente - 
+- Cultivando uma relação entre plantas e máquinas: Perspectiva poética sobre interfaces, natureza e dados  - Artur Cabral
+- Pesquisas acadêmicas de monitoramento ambiental - 
+- Encerramento
 
 ## Sobre os participantes
 
